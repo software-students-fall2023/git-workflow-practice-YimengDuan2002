@@ -1,4 +1,3 @@
 # Git Practice
-The aritle I am interested in is [What is version control: centralized vs. DVCS](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs).
-
-The artilce disucesses the differences between centralized version control system and distributed version control system.
+The aritle I am interested in is [Software Engineering Is About More Than Just the Code](https://medium.com/swlh/software-engineering-is-about-more-than-just-the-code-67e79c901cd4).
+The article discusses the change of people's perception about the career of software engineer. The author thinks a good software engineer do more than just code. The author talks about the evolution IT industry in recent decades, starting from early programmers and expanding into various specialized roles. He emphacizes that software Engineers should realzie the importance of value chain that the enterprises wish to achieve and learn to work in collaborative teams and understand continuous deployment processes.
